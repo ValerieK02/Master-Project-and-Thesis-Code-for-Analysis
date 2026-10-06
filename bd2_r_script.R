@@ -1,6 +1,6 @@
 # THE FOLLOWING R SCRIPT IS A CODE FOR MAKING A SUMMARY TABLE BASED ON THE RAW BD2 OUTPUT
 
-# 1. SETTINGS-----------------
+# 1. SETTINGS
 # Folder containing the BatDetect2 CSV files
 input_folder <- "/Users/valerie/batdetect2-main/manually_identified_bat_calls/Enil_with_Pnat_and_Ppyg_Important_Output"
 
